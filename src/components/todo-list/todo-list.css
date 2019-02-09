@@ -1,0 +1,9 @@
+.list {
+    list-style: none;
+    /*min-height: 600px;*/
+}
+
+.list li {
+    margin-top: 15px;
+    height: 100px;
+}

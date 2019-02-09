@@ -1,0 +1,30 @@
+.list_item {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 10px auto;
+}
+button {
+    text-decoration: none;
+    color: azure;
+    border: 2px solid aliceblue;
+    padding: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+    background: blueviolet;
+}
+span {
+    cursor: pointer;
+    max-width: 40%;
+
+}
+.through {
+    text-decoration: line-through;
+    font-size: 30px;
+    color: aqua;
+}
+.none {
+    display: none;
+    /*font-size: 30px;*/
+    /*color: olive;*/
+}

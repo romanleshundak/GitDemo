@@ -1,0 +1,11 @@
+.add_new_todo {
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.add_new_todo input {
+    width: 30%;
+    height: 40px;
+    font-size: 30px;
+}
