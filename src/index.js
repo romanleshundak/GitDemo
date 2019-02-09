@@ -44,7 +44,7 @@ class App extends Component {
         });
     };
     doneItem = (key) => {
-        // console.log(key)
+        console.log(key)
         this.setState(({todoData}) => {
             let newArray = todoData.slice();
             let index = newArray.findIndex((item) => item.key === key);
